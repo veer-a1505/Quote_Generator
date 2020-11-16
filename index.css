@@ -1,0 +1,65 @@
+.contanier{ 
+    margin : 20px;
+    border : 2px solid;
+    padding: 10px 50px;
+    text-align : center;
+    height : 400px;
+    width : 500px;
+    background-color: #eeeeee;
+    border-radius: 50px;
+    background-image: linear-gradient(90deg, #eeeeee , #eeeeee);
+  }
+  
+  .btn{
+    padding: 20px 25px 20px 25px;
+    border : none;
+    text-align: center;
+    text-decoration: none;
+    display : inline-block;
+    font-size : 15px;
+    margin : 40px 20px;
+    border-radius: 30px;
+    cursor: pointer;
+    margin-top: 90px;
+    border-radius: 12px;
+    outline :none;
+    background-color: #aaaaaa;
+    opacity: 0.7;
+  
+  }
+  
+  .btn:hover{
+    background-color : #ddd;
+    
+  }
+
+  h2{
+      font-size: large;
+      font-weight: 300;
+      font-family: Garamond;
+      font-style: italic;
+      color: #1e1f26;
+  
+  }
+
+
+body{
+    padding: 100px 200px;
+    margin: 100px 350px 100px;
+
+}
+
+h1{
+    border: solid 1px #222629;
+    color:#536872;
+    font-style: italic;
+    border-radius: 80px;
+    
+}
+
+
+#ath{
+    text-align: right;
+    color: #851e3e;
+    font-style: oblique;
+}
